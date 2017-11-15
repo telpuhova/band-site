@@ -1,0 +1,44 @@
+body {
+  background-color: #383737;
+  color: #fff;
+}
+
+h1 {
+  font-size: 70px;
+}
+
+.sidebar {
+  float: right;
+  color: #fff;
+  font-weight: 200;
+  background-color: #960606;
+  position: absolute;
+  top: -45px;
+  bottom: -1200px;
+  right: -7px;
+  width: 15%;
+}
+
+.sidebar h2 {
+  font-size: 20px;
+  text-align: center;
+  font-weight: 100;
+
+}
+
+.content {
+  position: relative;
+  width: 100%;
+}
+
+.column {
+  float: left;
+  width: 35%;
+  padding-left: 50px;
+  padding-right: 15px;
+}
+
+.column img {
+  float: right;
+  padding: 10px;
+}
